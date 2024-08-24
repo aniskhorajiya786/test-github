@@ -2,3 +2,4 @@ this is my file fredom
 new content upcoming
 new commit data
 new entitel commit
+new line add one
