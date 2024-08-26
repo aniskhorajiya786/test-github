@@ -1,11 +1,5 @@
 this is my file randome
-<<<<<<< HEAD
 this file project strucher mentent
 this new change project
 this is new change master document to nav bar
 this new document change for hero section 
-=======
-this projet navbar note 
-this is new change master document to nav bar
-this hero section not navbar part
->>>>>>> navbar
