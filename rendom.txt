@@ -6,3 +6,4 @@ this new document change for hero section
 xhd update
 this hero section not navbar part
 nav bar new update
+two new branch add
