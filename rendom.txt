@@ -4,3 +4,5 @@ this new change project
 this is new change master document to nav bar
 this new document change for hero section 
 xhd update
+this hero section not navbar part
+nav bar new update
